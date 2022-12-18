@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Bhuyekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Inthink Technologies**
+- 🔭 I’m Engineering student in  **MIT**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently persuing  **B.TECH in Electronics Major**
+
+- **Front End Web developemnt** is my passion.
 
 - 📫 How to reach me **rybhuyekar@gmail.com**
 
