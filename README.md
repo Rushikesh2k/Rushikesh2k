@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently persuing  **B.TECH in Electronics Major**
 
-- **Front End Web developemnt** is my passion.
+- **Front End Web developemnt** is my passion and also exploring **REACTJS.
 
 - 📫 How to reach me **rybhuyekar@gmail.com**
 
