@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Bhuyekar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m Engineering student in  **MIT**
+- 🔭 I’m Engineering student from  **MIT**
 
 - 🌱 I’m currently persuing  **B.TECH in Electronics Major**
 
