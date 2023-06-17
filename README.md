@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **rybhuyekar@gmail.com**
 
+![Visitor Count](https://profile-counter.glitch.me/Rushikesh2k/count.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rushikesh2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushikesh2k" height="30" width="40" /></a>
